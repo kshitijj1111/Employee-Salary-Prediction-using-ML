@@ -63,7 +63,7 @@ salary-predictor/
 Follow these steps to set up and run the project on your local machine.
 
 1. Clone the Repository
-git clone [https://github.com/your-username/your-repository-name.git]([https://github.com/your-username/your-repository-name.git](https://github.com/kshitijj1111/Employee-Salary-Prediction-using-ML.git))
+git clone [https://github.com/your-username/your-repository-name.git]([https://github.com/kshitijj1111/Employee-Salary-Prediction-using-ML.git](https://github.com/kshitijj1111/Employee-Salary-Prediction-using-ML.git))
 cd your-repository-name
 
 2. Create and Activate a Virtual Environment
